@@ -16,4 +16,4 @@ There are 8 actions available in general.
 6 Cast Strength of Might - starting from the turn after it is cast, for 6 turns, all physical attacks deal double damage, and your fireball has enough strength to blast through a Globe of Invulnerability, dealing normal fireball damage.
 7 Drink a healing potion - instantly gets back 50 points of health (max 100). You have only one healing potion per round. Use it wisely
 
-The project is run in an tourtament enviorment and was eventually used to play against other clasemates in a tournament. 
+The project is run in an tournament application and was eventually used to play against other clasemates in a tournament. 
